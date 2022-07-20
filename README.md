@@ -6,3 +6,6 @@ Codes links for implementation on LiDar and Camera
 
 1. Codes for "Learning Lightweight Lane Detection CNNs by Self Attention Distillation" 
     * https://github.com/cardwing/Codes-for-Lane-Detection
+    
+2. Spatial CNN for Traffic Lane Detection 
+   * https://github.com/XingangPan/SCNN 
