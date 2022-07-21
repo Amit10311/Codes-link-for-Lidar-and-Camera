@@ -24,3 +24,6 @@ Codes links for implementation on LiDar and Camera
    
 2. General-Purpose Point Cloud Feature Extractor
    * https://github.com/WDot/G3DNet
+   
+3. VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+   * https://github.com/qianguih/voxelnet
