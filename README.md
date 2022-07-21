@@ -21,3 +21,6 @@ Codes links for implementation on LiDar and Camera
 
 1. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
    * https://lnkd.in/dv88uk39 
+   
+2. General-Purpose Point Cloud Feature Extractor
+   * https://github.com/WDot/G3DNet
