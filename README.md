@@ -21,8 +21,13 @@ Codes links for implementation on LiDar and Camera
 ## Simulators 
 1. TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
    * https://github.com/ika-rwth-aachen/Cam2BEV
-   
-   
+
+2. Open-RMF (www.open-rmf.org)
+   * Open-RMF ROSCon Workshop slides  https://lnkd.in/gvnaeXnx
+   * https://github.com/open-rmf/rmf-web
+   * https://github.com/open-rmf/rmf_demos
+   * https://vimeo.com/405803151
+  
 ## Point Cloud
 
 1. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
