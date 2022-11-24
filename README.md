@@ -4,7 +4,7 @@ Codes links for implementation on LiDar and Camera
 * https://modelnet.cs.princeton.edu/
 
 
-## LiDar 
+## LiDAR
 
 1. Codes for "Learning Lightweight Lane Detection CNNs by Self Attention Distillation" 
     * https://github.com/cardwing/Codes-for-Lane-Detection
