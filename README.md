@@ -19,6 +19,12 @@ Codes links for implementation on LiDar and Camera
 4. Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs
    * https://arxiv.org/pdf/2112.13224.pdf 
 
+5. Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation (CVPR 2022)
+   * https://github.com/cardwing/Codes-for-PVKD
+
+6. V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer (ECCV 2022)
+   * https://github.com/DerrickXuNu/v2x-vit
+
 
 
 ## LiDAR-Inertial Odometry
@@ -78,6 +84,12 @@ Father of LIDAR and IMU integration
 3. Deep-Learning-for-Robotics
    * https://github.com/Amit10311/Deep-Learning-for-Robotics
   
+4. NVIDIA Deep Learning Examples for Tensor Cores
+   * https://github.com/NVIDIA/DeepLearningExamples
+
+5. PyTorch Tutorial to Object Detection.
+   * https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+
 
 
 ## Robots 
@@ -104,6 +116,9 @@ Father of LIDAR and IMU integration
 1. Intelligent Quads Tutorials
    * https://github.com/Intelligent-Quads/iq_tutorials
 
+2. mav_trajectory_generation
+  * Tools for polynomial trajectory generation and optimization. 
+  * https://github.com/ethz-asl/mav_trajectory_generation
 
 
 
