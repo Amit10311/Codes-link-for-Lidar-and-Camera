@@ -50,8 +50,8 @@ Codes links for implementation on LiDar and Camera
    * https://github.com/qianguih/voxelnet
  
 4. OpenPCDet
-* OpenPCDet is a clear, simple, self-contained open source project for LiDAR-based 3D object detection.
-* https://github.com/open-mmlab/OpenPCDet
+   * OpenPCDet is a clear, simple, self-contained open source project for LiDAR-based 3D object detection.
+   * https://github.com/open-mmlab/OpenPCDet
 
  
  
