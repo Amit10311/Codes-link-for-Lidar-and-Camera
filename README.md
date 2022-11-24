@@ -34,12 +34,12 @@ Father of LIDAR and IMU integration
 
 2. **LIO-mapping:** A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach --  ICRA 2019
    * https://github.com/hyye/lio-mapping
-   
-    
+     
 3. LOAM_NOTED
  * https://github.com/cuitaixiang/LOAM_NOTED
 
-
+4. Robust Real-time LiDAR-inertial Initialization
+   * 
 ## Camera
 1. zed-examples
    * https://github.com/Amit10311/zed-examples
