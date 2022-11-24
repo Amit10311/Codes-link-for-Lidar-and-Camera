@@ -12,9 +12,9 @@ Codes links for implementation on LiDar and Camera
 2. Spatial CNN for Traffic Lane Detection 
    * https://github.com/XingangPan/SCNN 
    
-3. FAST-LIO2: Fast Direct LiDAR-inertial Odometry
+3. FAST-LIO2: Fast Direct LiDAR-inertial Odometry 
    * https://arxiv.org/pdf/2107.06829.pdf 
-   * Code: https://github.com/hku-mars/FAST_LIO  (2021-07-05 Update)
+   * Code: https://github.com/hku-mars/FAST_LIO  (2021-07-05 Update) 
 
 4. See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation
    * https://arxiv.org/pdf/2111.09450.pdf
@@ -26,9 +26,18 @@ Codes links for implementation on LiDar and Camera
 
 
 ## LiDAR-Inertial Odometry
+Father of LIDAR and IMu integration  
+  * https://www.researchgate.net/profile/Fu-Zhang-14
 
-1. LIO-Livox (A Robust LiDAR-Inertial Odometry for Livox LiDAR)
+1. **LIO-Livox** (A Robust LiDAR-Inertial Odometry for Livox LiDAR)
+   * https://github.com/Livox-SDK/LIO-Livox
 
+2. **LIO-mapping:** A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach --  ICRA 2019
+   * https://github.com/hyye/lio-mapping
+   
+    
+3. LOAM_NOTED
+ * https://github.com/cuitaixiang/LOAM_NOTED
 
 
 ## Camera
@@ -92,6 +101,10 @@ Codes links for implementation on LiDar and Camera
 
 
 
+## Programming 
+
+1. Classic Programming Books
+   * https://github.com/jobbole/awesome-programming-books 
 
 
 
