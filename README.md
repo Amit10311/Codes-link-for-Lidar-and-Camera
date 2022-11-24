@@ -12,9 +12,6 @@ Codes links for implementation on LiDar and Camera
 2. Spatial CNN for Traffic Lane Detection 
    * https://github.com/XingangPan/SCNN 
    
-3. FAST-LIO2: Fast Direct LiDAR-inertial Odometry 
-   * https://arxiv.org/pdf/2107.06829.pdf 
-   * Code: https://github.com/hku-mars/FAST_LIO  (2021-07-05 Update) 
 
 4. See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation
    * https://arxiv.org/pdf/2111.09450.pdf
@@ -36,10 +33,19 @@ Father of LIDAR and IMU integration
    * https://github.com/hyye/lio-mapping
      
 3. LOAM_NOTED
- * https://github.com/cuitaixiang/LOAM_NOTED
+   * https://github.com/cuitaixiang/LOAM_NOTED
 
-4. Robust Real-time LiDAR-inertial Initialization
-   * 
+4. **FAST-LIO** Robust Real-time LiDAR-inertial Initialization 
+   * https://github.com/hku-mars/FAST_LIO
+   * Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package. 
+     * It fuses LiDAR feature points with IMU data using a tightly-coupled iterated extended Kalman filter to allow robust navigation in fast-motion, noisy or cluttered environments where degeneration occurs. 
+
+
+5. FAST-LIO2: Fast Direct LiDAR-inertial Odometry 
+   * https://arxiv.org/pdf/2107.06829.pdf 
+   * Code: https://github.com/hku-mars/FAST_LIO  (2021-07-05 Update) 
+
+
 ## Camera
 1. zed-examples
    * https://github.com/Amit10311/zed-examples
@@ -92,7 +98,9 @@ Father of LIDAR and IMU integration
    * https://github.com/open-rmf/rmf_demos
    * https://vimeo.com/405803151
   
-    
+3. Robust and efficient coverage paths for autonomous agricultural vehicles
+   * https://github.com/Fields2Cover/Fields2Cover 
+
   
 ## Working with Drone 
 1. Intelligent Quads Tutorials
