@@ -26,7 +26,7 @@ Codes links for implementation on LiDar and Camera
 
 
 ## LiDAR-Inertial Odometry
-Father of LIDAR and IMu integration  
+Father of LIDAR and IMU integration  
   * https://www.researchgate.net/profile/Fu-Zhang-14
 
 1. **LIO-Livox** (A Robust LiDAR-Inertial Odometry for Livox LiDAR)
