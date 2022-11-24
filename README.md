@@ -12,12 +12,11 @@ Codes links for implementation on LiDar and Camera
 2. Spatial CNN for Traffic Lane Detection 
    * https://github.com/XingangPan/SCNN 
    
-
-4. See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation
+3. See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation
    * https://arxiv.org/pdf/2111.09450.pdf
    * Code : https://github.com/darrenjkt/SEE-MTDA
    
-5. Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs
+4. Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs
    * https://arxiv.org/pdf/2112.13224.pdf 
 
 
@@ -40,8 +39,7 @@ Father of LIDAR and IMU integration
    * Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package. 
      * It fuses LiDAR feature points with IMU data using a tightly-coupled iterated extended Kalman filter to allow robust navigation in fast-motion, noisy or cluttered environments where degeneration occurs. 
 
-
-5. FAST-LIO2: Fast Direct LiDAR-inertial Odometry 
+5. **FAST-LIO2**: Fast Direct LiDAR-inertial Odometry 
    * https://arxiv.org/pdf/2107.06829.pdf 
    * Code: https://github.com/hku-mars/FAST_LIO  (2021-07-05 Update) 
 
@@ -61,10 +59,10 @@ Father of LIDAR and IMU integration
 2. General-Purpose Point Cloud Feature Extractor
    * https://github.com/WDot/G3DNet
    
-3. VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+3. **VoxelNet**: End-to-End Learning for Point Cloud Based 3D Object Detection
    * https://github.com/qianguih/voxelnet
  
-4. OpenPCDet
+4. **OpenPCDet**
    * OpenPCDet is a clear, simple, self-contained open source project for LiDAR-based 3D object detection.
    * https://github.com/open-mmlab/OpenPCDet
 
