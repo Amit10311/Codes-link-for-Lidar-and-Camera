@@ -64,7 +64,7 @@ Father of LIDAR and IMU integration
    * VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
    * https://github.com/dvlab-research/VFF
    
-2. PIXOR: Real-time 3D Object Detection from Point Clouds
+2. **PIXOR :** Real-time 3D Object Detection from Point Clouds
    * https://arxiv.org/pdf/1902.06326.pdf
 
 3. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
