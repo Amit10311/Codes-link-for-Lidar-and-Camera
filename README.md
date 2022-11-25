@@ -75,13 +75,13 @@ Father of LIDAR and IMU integration
    *  `Code :` https://github.com/nutonomy/second.pytorch
    *  https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars
    
-2. Point-base Methods
+2. **Point-base Methods**
 
 * **PointNet++ :** Deep Hierarchical Feature Learning on Point Sets in a Metric Space - 2017 
    * https://arxiv.org/pdf/1706.02413.pdf
    * `Code :` https://github.com/charlesq34/pointnet2 
    
-* PointRCNN: 3D Object Proposal Generation and Detection from raw Point Cloud  
+* **PointRCNN :** 3D Object Proposal Generation and Detection from raw Point Cloud  
    *  https://arxiv.org/pdf/1812.04244.pdf 
    *  The whole framework is composed of two stages: stage-1 for the bottom-up 3D proposal generation and stage-2 for refining proposals in the canonical coordinates to obtain the final detection results. 
    * `Code :` https://github.com/sshaoshuai/PointRCNN 
