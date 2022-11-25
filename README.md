@@ -75,7 +75,7 @@ Father of LIDAR and IMU integration
    *  `Code :` https://github.com/nutonomy/second.pytorch
    *  https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars
    
-2. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space - 2017 
+2. **PointNet++ :** Deep Hierarchical Feature Learning on Point Sets in a Metric Space - 2017 
    * https://arxiv.org/pdf/1706.02413.pdf
    * `Code :` https://github.com/charlesq34/pointnet2 
    
