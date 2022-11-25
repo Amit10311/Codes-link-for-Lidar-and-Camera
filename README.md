@@ -75,17 +75,20 @@ Father of LIDAR and IMU integration
    *  `Code :` https://github.com/nutonomy/second.pytorch
    *  https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars
    
+2. PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space - 2017 
+   * https://arxiv.org/pdf/1706.02413.pdf
+   * `Code :` https://github.com/charlesq34/pointnet2 
    
-2. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
+3. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
    * https://lnkd.in/dv88uk39 
    
-3. General-Purpose Point Cloud Feature Extractor
+4. General-Purpose Point Cloud Feature Extractor
    * `Code:` https://github.com/WDot/G3DNet
    
-4. **VoxelNet**: End-to-End Learning for Point Cloud Based 3D Object Detection
+5. **VoxelNet**: End-to-End Learning for Point Cloud Based 3D Object Detection
    * `Code:` https://github.com/qianguih/voxelnet
  
-5. **OpenPCDet**
+6. **OpenPCDet**
    * OpenPCDet is a clear, simple, self-contained open source project for LiDAR-based 3D object detection.
    * `Code:` https://github.com/open-mmlab/OpenPCDet
 
