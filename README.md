@@ -117,8 +117,8 @@ Father of LIDAR and IMU integration
    * https://github.com/Intelligent-Quads/iq_tutorials
 
 2. mav_trajectory_generation
-  * Tools for polynomial trajectory generation and optimization. 
-  * https://github.com/ethz-asl/mav_trajectory_generation
+   * Tools for polynomial trajectory generation and optimization. 
+   * https://github.com/ethz-asl/mav_trajectory_generation
 
 
 
