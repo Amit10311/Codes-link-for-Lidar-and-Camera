@@ -73,6 +73,7 @@ Father of LIDAR and IMU integration
 *  **PointPillars :** Fast Encoders for Object Detection from Point Clouds
    * https://arxiv.org/pdf/1812.05784.pdf
    *  `Code :` https://github.com/nutonomy/second.pytorch
+   *  https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars
    
    
 2. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
