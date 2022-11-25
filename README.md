@@ -60,24 +60,31 @@ Father of LIDAR and IMU integration
 
 ## Point Cloud
 
-1. **VFF**: Voxel Field Fusion for 3D Object Detection
+1. **Voxel-Based Methods** 
+
+* **VFF**: Voxel Field Fusion for 3D Object Detection
    * VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
    * `Code:` https://github.com/dvlab-research/VFF
    
-2. **PIXOR :** Real-time 3D Object Detection from Point Clouds
+* **PIXOR :** Real-time 3D Object Detection from Point Clouds
    * https://arxiv.org/pdf/1902.06326.pdf
    * `Code :` https://github.com/philip-huang/PIXOR
 
-3. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
+*  **PointPillars :** Fast Encoders for Object Detection from Point Clouds
+   * https://arxiv.org/pdf/1812.05784.pdf
+   *  `Code :` https://github.com/nutonomy/second.pytorch
+   
+   
+2. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
    * https://lnkd.in/dv88uk39 
    
-2. General-Purpose Point Cloud Feature Extractor
+3. General-Purpose Point Cloud Feature Extractor
    * `Code:` https://github.com/WDot/G3DNet
    
-3. **VoxelNet**: End-to-End Learning for Point Cloud Based 3D Object Detection
+4. **VoxelNet**: End-to-End Learning for Point Cloud Based 3D Object Detection
    * `Code:` https://github.com/qianguih/voxelnet
  
-4. **OpenPCDet**
+5. **OpenPCDet**
    * OpenPCDet is a clear, simple, self-contained open source project for LiDAR-based 3D object detection.
    * `Code:` https://github.com/open-mmlab/OpenPCDet
 
