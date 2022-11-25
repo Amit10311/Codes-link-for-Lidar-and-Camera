@@ -43,7 +43,7 @@ Father of LIDAR and IMU integration
    * `Code:` https://github.com/cuitaixiang/LOAM_NOTED
 
 4. **FAST-LIO** Robust Real-time LiDAR-inertial Initialization 
-   * https://github.com/hku-mars/FAST_LIO
+   * `Code:` https://github.com/hku-mars/FAST_LIO
    * Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package. 
      * It fuses LiDAR feature points with IMU data using a tightly-coupled iterated extended Kalman filter to allow robust navigation in fast-motion, noisy or cluttered environments where degeneration occurs. 
 
