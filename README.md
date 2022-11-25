@@ -85,10 +85,6 @@ Father of LIDAR and IMU integration
    *  https://arxiv.org/pdf/1812.04244.pdf 
    *  The whole framework is composed of two stages: stage-1 for the bottom-up 3D proposal generation and stage-2 for refining proposals in the canonical coordinates to obtain the final detection results. 
    * `Code :` https://github.com/sshaoshuai/PointRCNN 
-
-
-   
-   https://github.com/sshaoshuai/PointRCNN
    
 3. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
    * https://lnkd.in/dv88uk39 
