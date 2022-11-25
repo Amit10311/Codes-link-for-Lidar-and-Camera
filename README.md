@@ -56,8 +56,11 @@ Father of LIDAR and IMU integration
 
 
 
-
 ## Point Cloud
+
+1. **VFF**: Voxel Field Fusion for 3D Object Detection
+   * VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
+   * https://github.com/dvlab-research/VFF
 
 1. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
    * https://lnkd.in/dv88uk39 
@@ -72,7 +75,6 @@ Father of LIDAR and IMU integration
    * OpenPCDet is a clear, simple, self-contained open source project for LiDAR-based 3D object detection.
    * https://github.com/open-mmlab/OpenPCDet
 
- 
  
 ## DEEP-LEARNING
 1. FUNDAMENTALS OF DEEP LEARNING
