@@ -75,7 +75,7 @@ Father of LIDAR and IMU integration
    *  `Code :` https://github.com/nutonomy/second.pytorch
    *  https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars
    
-2. **Point-base Methods** Suitable for in-door scenes (high object density) not for out-door ( large scale point clouds) 
+2. **Point-base Methods :** Suitable for in-door scenes (high object density) not for out-door ( large scale point clouds) 
 
 * **PointNet++ :** Deep Hierarchical Feature Learning on Point Sets in a Metric Space - 2017 
    * https://arxiv.org/pdf/1706.02413.pdf
