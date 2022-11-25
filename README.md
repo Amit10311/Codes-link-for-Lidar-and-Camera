@@ -1,5 +1,5 @@
-# Codes-link-for-Lidar-and-Camera
-Codes links for implementation on LiDar and Camera
+# Codes and Research paper links for Lidar and Camera
+Codes links for implementation on LiDAR and Camera
 
 * https://modelnet.cs.princeton.edu/
 
