@@ -34,8 +34,10 @@ Father of LIDAR and IMU integration
 1. **LIO-Livox** (A Robust LiDAR-Inertial Odometry for Livox LiDAR)
    * https://github.com/Livox-SDK/LIO-Livox
 
+
 2. **LIO-mapping:** A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach --  ICRA 2019
    * https://github.com/hyye/lio-mapping
+     
      
 3. LOAM_NOTED
    * https://github.com/cuitaixiang/LOAM_NOTED
@@ -61,8 +63,11 @@ Father of LIDAR and IMU integration
 1. **VFF**: Voxel Field Fusion for 3D Object Detection
    * VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
    * https://github.com/dvlab-research/VFF
+   
+2. PIXOR: Real-time 3D Object Detection from Point Clouds
+   * https://arxiv.org/pdf/1902.06326.pdf
 
-1. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
+3. 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
    * https://lnkd.in/dv88uk39 
    
 2. General-Purpose Point Cloud Feature Extractor
