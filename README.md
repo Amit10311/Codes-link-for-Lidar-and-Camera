@@ -58,6 +58,13 @@ Father of LIDAR and IMU integration
 
 
 
+## LiDAR-Camera
+1. A Deep Learning Approach for LiDAR Resolution-Agnostic Object Detection 
+   * https://hal.archives-ouvertes.fr/hal-03485613/document  (2021)
+   * ![image](https://user-images.githubusercontent.com/20908007/204545251-ece1f16f-ff77-417d-818c-ddfbb045c227.png)
+
+
+
 ## Point Cloud
 
 1. **Voxel-Based Methods** 
