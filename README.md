@@ -63,6 +63,11 @@ Father of LIDAR and IMU integration
    * https://hal.archives-ouvertes.fr/hal-03485613/document  (2021)
    * ![image](https://user-images.githubusercontent.com/20908007/204545251-ece1f16f-ff77-417d-818c-ddfbb045c227.png)
 
+2. Camera LiDAR Calibration ROS Package Tutorial 
+   * The full paper is accessible at: https://arxiv.org/abs/2103.12287
+   * The code is available at: https://github.com/acfr/cam_lidar_calibration
+
+ 
 
 
 ## Point Cloud
