@@ -70,6 +70,8 @@ Father of LIDAR and IMU integration
 3. Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion
    * The full paper is accessible at: https://arxiv.org/abs/2203.09780
    * The code is available at: https://github.com/LittlePey/SFD
+   * ![image](https://user-images.githubusercontent.com/20908007/216044964-9bdbbda1-a1be-4d9a-ab1c-5feb59efb61c.png)
+
 
 
 ## Point Cloud
