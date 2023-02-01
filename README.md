@@ -83,6 +83,8 @@ Father of LIDAR and IMU integration
 * **VFF**: Voxel Field Fusion for 3D Object Detection
    * VFF aims to maintain cross-modality consistency by representing and Image fusing augmented image features as a ray in the voxel field.
    * `Code:` https://github.com/dvlab-research/VFF
+   * ![image](https://user-images.githubusercontent.com/20908007/216046489-825042e2-4e59-4bdc-80f9-572b55d68cd9.png)
+
    
 * **PIXOR :** Real-time 3D Object Detection from Point Clouds
    * https://arxiv.org/pdf/1902.06326.pdf
