@@ -55,7 +55,9 @@ Father of LIDAR and IMU integration
 1. zed-examples
    * `Code:` https://github.com/Amit10311/zed-examples
 
-
+2. Mask R-CNN for Object Detection and Segmentation
+   * Clone reposotory git clone https://github.com/matterport/Mask_RCNN.git
+   * ![image](https://user-images.githubusercontent.com/20908007/216045770-89ce560d-4483-4991-a0d0-905a89d0039f.png)  
 
 ## Fusion model (LiDAR + Cameras)
 
