@@ -11,6 +11,8 @@ Codes links for implementation on LiDAR and Camera
     
 2. Spatial CNN for Traffic Lane Detection 
    * https://github.com/XingangPan/SCNN 
+   * ![image](https://user-images.githubusercontent.com/20908007/216046748-373b19e2-1046-4911-9de3-94a061459392.png)
+
    
 3. See Eye to Eye: A Lidar-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation
    * https://arxiv.org/pdf/2111.09450.pdf
