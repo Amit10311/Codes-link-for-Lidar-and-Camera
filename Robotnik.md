@@ -6,3 +6,10 @@
     * ![Screenshot from 2023-02-01 16-07-22](https://user-images.githubusercontent.com/20908007/216080669-d87dd951-db05-4ed7-a0f6-510fbc272f12.png)
 
 
+2. Mobile robot for inspection tasks
+    * https://www.youtube.com/watch?v=ctN8f5Gcyh0&ab_channel=RobotnikAutomation
+    * The objective is to maintain a constant and dynamic pace in the process of collecting indoor and outdoor environmental information. 
+    * For this case of Lean construction through mobile robotics, the SUMMIT-XL travels around the construction site and performs a scan to compare the real state of the same, comparing it with the plans of the 3D BIM model. 
+    * The evaluation of the construction site against the BIM map serves to confirm that the project is progressing as planned.
+
+
