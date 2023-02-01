@@ -26,7 +26,6 @@ Codes links for implementation on LiDAR and Camera
    * https://github.com/DerrickXuNu/v2x-vit
 
 
-
 ## LiDAR-Inertial Odometry
 Father of LIDAR and IMU integration  
   * https://www.researchgate.net/profile/Fu-Zhang-14
@@ -58,17 +57,19 @@ Father of LIDAR and IMU integration
 
 
 
-## LiDAR-Camera
+## Fusion model (LiDAR + Cameras)
+
 1. A Deep Learning Approach for LiDAR Resolution-Agnostic Object Detection 
    * https://hal.archives-ouvertes.fr/hal-03485613/document  (2021)
    * ![image](https://user-images.githubusercontent.com/20908007/204545251-ece1f16f-ff77-417d-818c-ddfbb045c227.png)
 
-
 2. Camera LiDAR Calibration ROS Package Tutorial 
    * The full paper is accessible at: https://arxiv.org/abs/2103.12287
    * The code is available at: https://github.com/acfr/cam_lidar_calibration
-
- 
+  
+3. Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion
+   * The full paper is accessible at: https://arxiv.org/abs/2203.09780
+   * The code is available at: https://github.com/LittlePey/SFD
 
 
 ## Point Cloud
