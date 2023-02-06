@@ -13,3 +13,5 @@
     * The evaluation of the construction site against the BIM map serves to confirm that the project is progressing as planned.
 
 
+3. TeMoto: A Software Framework for Adaptive and Dependable Robotic Autonomy 
+    * ![Screenshot from 2023-02-06 13-00-37](https://user-images.githubusercontent.com/20908007/216966168-27f3474e-7adc-4be7-adb4-08ed6da86bc7.png)
