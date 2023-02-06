@@ -17,3 +17,7 @@
     * ![Screenshot from 2023-02-06 13-00-37](https://user-images.githubusercontent.com/20908007/216966168-27f3474e-7adc-4be7-adb4-08ed6da86bc7.png)
     * https://github.com/temoto-framework-demos/temoto_architecture_demos
     * https://www.youtube.com/watch?v=4AxX6-BUUlw&ab_channel=UniTartuIMSRobotics
+
+4. Multi-Modal Model Predictive Control Through Batch Non-Holonomic Trajectory Optimization
+    * https://www.youtube.com/watch?v=XiKJPqCNM88&ab_channel=UniTartuIMSRobotics
+
