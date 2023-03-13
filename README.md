@@ -146,7 +146,10 @@ Father of LIDAR and IMU integration
 ## Robots 
 1. Ros_Summit_XL_basics
    * `Code:` https://github.com/Amit10311/Ros_Summit_XL_basics
-  
+   
+
+ 2. Summit XL Navigation
+   * `Code:` https://github.com/Mostafa-wael/Summit-XL-Navigation
     
   
 ## Simulators 
