@@ -67,6 +67,8 @@ Father of LIDAR and IMU integration
 3. Segment Anything
    * https://ai.facebook.com/research/publications/segment-anything/
    * `Code :` https://github.com/facebookresearch/segment-anything
+   * ![image](https://user-images.githubusercontent.com/20908007/230338414-05d7a66b-b6d9-4843-8807-58786b328004.png)
+
    
    
 ## Fusion model (LiDAR + Cameras)
