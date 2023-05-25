@@ -189,3 +189,16 @@ Father of LIDAR and IMU integration
    * https://github.com/jobbole/awesome-programming-books 
 
 
+## Courses 
+1. Sensor Fusion Udacity 
+   * https://github.com/YoungGer/Udacity-SensorFusion-NanoDegree
+   * https://github.com/fanweng/Udacity-Sensor-Fusion-Nanodegree/projects
+
+2. Self-Driving-Car-Engineer-Nanodegree
+   * https://github.com/ChenBohan/Udacity-Self-Driving-Car-Engineer-Nanodegree
+   * https://github.com/ChenBohan/Robotics-Control-01-PID-Control
+   * https://github.com/ChenBohan/Robotics-Sensor-Fusion-03-UKF-Unscented-Kalman-Filter
+   * https://github.com/ChenBohan/Robotics-Path-Planning-05-CarND-Path-Planning-Project 
+   
+3. Robotics-ROS
+   * https://github.com/ChenBohan/Robotics-ROS-04-Coordinate-Transform
