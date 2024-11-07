@@ -7,4 +7,7 @@ GITHUB REPOS
 ROS 2 examples
 * Python and C++ minimal examples.
    - https://github.com/ros2/examples/tree/humble
-   - Contains different type of ros publisher and subsciber. 
+   - Contains different type of ros publisher and subsciber.
+  
+Robot packages for the Turtlebot4 with ROS 2.
+   - https://github.com/turtlebot/turtlebot4_robot/tree/humble
