@@ -11,3 +11,7 @@ ROS 2 examples
   
 Robot packages for the Turtlebot4 with ROS 2.
    - https://github.com/turtlebot/turtlebot4_robot/tree/humble
+   - TurtleBot 4 examples: https://github.com/turtlebot/turtlebot4_examples
+   - SLAM Toolbox: https://github.com/SteveMacenski/slam_toolbox
+
+
