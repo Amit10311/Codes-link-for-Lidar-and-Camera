@@ -7,7 +7,9 @@
 **ROS 2 Examples**
 * Python and C++ minimal examples.
    - https://github.com/ros2/examples/tree/humble
-   - Contains different type of ros publisher and subsciber.
+   - Contains different type of ros publisher and subsciber in cpp and py.
+   - rclcpp examples
+       - This directory contains many examples of how to do common tasks with rclcpp.
 
 **ROS 2 Demo**
 * This repository contains source code for demos mentioned in the official ROS 2 documentation [Tutorials](https://docs.ros.org/en/rolling/Tutorials.html).
