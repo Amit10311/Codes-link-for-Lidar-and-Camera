@@ -13,9 +13,27 @@ ROS 2 Demo
 * This repository contains source code for demos mentioned in the official ROS 2 documentation Tutorials.
    - https://github.com/ros2/demos 
 
+
 Robot packages for the Turtlebot4 with ROS 2.
    - https://github.com/turtlebot/turtlebot4_robot/tree/humble
    - TurtleBot 4 examples: https://github.com/turtlebot/turtlebot4_examples
    - SLAM Toolbox: https://github.com/SteveMacenski/slam_toolbox
 
-
+ROS 2, Programming and Robotics Fundamentals
+* https://automaticaddison.com/tutorials/#Linux_Fundamentals
+   - Python Fundamentals
+   - C++ Fundamentals
+   - ROS 2
+   - Robotics
+       - Coordinate Frames and Transformations
+       - Dynamics and Control
+       - Kinematics
+       - Manipulation
+       - DIY Robotic Arm
+       - Motion Planning
+       - Motors
+       - Localization
+       - Path Planning
+       - Wheeled Robots
+       - Omni-directional Mobile Robot with Mecanum Wheels
+       - Self-Balancing Robot
