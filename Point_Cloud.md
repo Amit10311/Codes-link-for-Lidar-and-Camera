@@ -39,12 +39,12 @@ These methods utilize voxel grids for efficient 3D object detection and processi
 - **Voxel Field Fusion (VFF): Voxel Field Fusion for 3D Object Detection**
     - **Description**: Maintains cross-modality consistency by representing and fusing augmented image features as rays in the voxel field.
     - **Code**: VFF Repository (https://github.com/dvlab-research/VFF)
-    - **Visualization**:
      * ![image](https://user-images.githubusercontent.com/20908007/216046489-825042e2-4e59-4bdc-80f9-572b55d68cd9.png)
 
 - **PIXOR**: Real-time 3D Object Detection from Point Clouds
     - **Paper**: https://arxiv.org/pdf/1902.06326.pdf
     - **Code**: https://github.com/philip-huang/PIXOR
+      
 - **PointPillars**: Fast Encoders for Object Detection from Point Clouds
     - **Paper**: PointPillars Paper (https://arxiv.org/pdf/1812.05784.pdf)
     - **Code**:
@@ -52,7 +52,7 @@ These methods utilize voxel grids for efficient 3D object detection and processi
         - CUDA-PointPillars (https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars)
 
 #### **2.2. Point-Based Methods**
-
+Suitable for in-door scenes (high object density) not for out-door ( large scale point clouds)
 These methods process raw point clouds directly and are often suitable for high-density, indoor scenes.
 
 - **PointNet++**: Deep Hierarchical Feature Learning on Point Sets in a Metric Space (2017)
@@ -62,7 +62,6 @@ These methods process raw point clouds directly and are often suitable for high-
     - **Paper**: PointRCNN Paper (https://arxiv.org/pdf/1812.04244.pdf)
     - **Description**: Two-stage framework: bottom-up 3D proposal generation and proposal refinement for final detection.
     - **Code**: PointRCNN Repository (https://github.com/sshaoshuai/PointRCNN)
-
 
 #### **2.3. Other Tools and Frameworks**
 
@@ -75,7 +74,8 @@ Additional frameworks and resources for advanced point cloud processing.
     - **Code**: OpenPCDet Repository (https://github.com/open-mmlab/OpenPCDet)
 - **General-Purpose Point Cloud Feature Extractor (G3DNet)**
     - **Code**: G3DNet Repository (https://github.com/WDot/G3DNet)
-
+- 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
+    - https://lnkd.in/dv88uk39
 
 
 ### 3. **Point Cloud Formats**
