@@ -5,6 +5,16 @@
 A point cloud is a collection of data points in 3D space, often representing the external surface of an object or environment. 
 Each point contains coordinates (x, y, z) and may also include additional information such as intensity, color, or normal vectors.
 
+**Point Cloud Formats**
+
+1. **.PCD** (Point Cloud Data):
+    - Native format for the Point Cloud Library.
+2. **.PLY** (Polygon File Format):
+    - Widely supported format with additional support for color and other attributes.
+3. **.LAS/.LAZ**:
+    - Common formats for Lidar point cloud data.
+4. **.OBJ**:
+    - Often used for 3D models that include surfaces.
 
 ## 1. **Popular Libraries for Handling Point Clouds**
 
@@ -78,16 +88,6 @@ Additional frameworks and resources for advanced point cloud processing.
     - https://lnkd.in/dv88uk39
 
 
-### 3. **Point Cloud Formats**
-
-1. **.PCD** (Point Cloud Data):
-    - Native format for the Point Cloud Library.
-2. **.PLY** (Polygon File Format):
-    - Widely supported format with additional support for color and other attributes.
-3. **.LAS/.LAZ**:
-    - Common formats for Lidar point cloud data.
-4. **.OBJ**:
-    - Often used for 3D models that include surfaces.
 
 
 ## **References for Learning and Documentation**
