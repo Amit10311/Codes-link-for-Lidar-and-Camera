@@ -52,8 +52,8 @@ These methods utilize voxel grids for efficient 3D object detection and processi
         - CUDA-PointPillars (https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars)
 
 #### **2.2. Point-Based Methods**
-Suitable for in-door scenes (high object density) not for out-door ( large scale point clouds)
-These methods process raw point clouds directly and are often suitable for high-density, indoor scenes.
+* Suitable for in-door scenes (high object density) not for out-door ( large scale point clouds). 
+* These methods process raw point clouds directly and are often suitable for high-density, indoor scenes.
 
 - **PointNet++**: Deep Hierarchical Feature Learning on Point Sets in a Metric Space (2017)
     - **Paper**: PointNet++ Paper (https://arxiv.org/pdf/1706.02413.pdf)
@@ -88,7 +88,6 @@ Additional frameworks and resources for advanced point cloud processing.
     - Common formats for Lidar point cloud data.
 4. **.OBJ**:
     - Often used for 3D models that include surfaces.
-
 
 
 ## **References for Learning and Documentation**
