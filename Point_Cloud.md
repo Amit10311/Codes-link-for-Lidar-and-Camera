@@ -25,17 +25,24 @@ Each point contains coordinates (x, y, z) and may also include additional inform
         - Filtering, segmentation, and surface reconstruction.
         - Point cloud registration and alignment.
         - Point feature extraction.
-2. **Open3D**:
+     https://github.com/jkk-research/pointcloud_to_grid
+
+2. **pointcloud_to_grid ROS 2 package**
+    - https://github.com/jkk-research/pointcloud_to_grid
+
+3. **Open3D**:
     - A modern library for 3D data processing.
     - Website: http://www.open3d.org/
     - Features:
         - Visualization.
         - Point cloud manipulation.
         - Integration with machine learning tools.
-3. **ROS 2 Point Cloud Messages**:
+          
+4. **ROS 2 Point Cloud Messages**:
     - ROS provides `sensor_msgs/PointCloud` and `sensor_msgs/PointCloud2` messages for working with point clouds in robotic systems.
     - ROS documentation: PointCloud2
-4. **Pytorch3D**:
+
+5. **Pytorch3D**:
     - A library for deep learning with 3D data, including point clouds.
     - Website: https://pytorch3d.org/
 
