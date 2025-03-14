@@ -39,3 +39,7 @@
       - Wheeled Robots
       - Omni-directional Mobile Robot with Mecanum Wheels
       - Self-Balancing Robot
+    
+  6. Isaac Sim ROS & ROS2 Workspaces
+     * https://github.com/isaac-sim/IsaacSim-ros_workspaces/tree/main
+     * https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/install_ros.html
