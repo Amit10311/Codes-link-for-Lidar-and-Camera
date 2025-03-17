@@ -111,5 +111,6 @@ Additional frameworks and resources for advanced point cloud processing.
 4. **Web Tutorials**:
     - Open3D Documentation: http://www.open3d.org/docs/
     - PCL Tutorials: https://pointclouds.org/documentation/tutorials.html
+    - https://pcl.readthedocs.io/projects/tutorials/en/master/
 
 ---
