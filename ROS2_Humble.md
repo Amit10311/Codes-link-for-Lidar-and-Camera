@@ -44,5 +44,5 @@
      * https://github.com/isaac-sim/IsaacSim-ros_workspaces/tree/main
      * https://docs.isaacsim.omniverse.nvidia.com/4.5.0/installation/install_ros.html
     
-  7. Ros2 Cookbook
+  7. **Ros2 Cookbook**
      * https://github.com/mikeferguson/ros2_cookbook/tree/main 
