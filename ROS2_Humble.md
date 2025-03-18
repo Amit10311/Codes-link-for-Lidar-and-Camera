@@ -52,7 +52,7 @@
      * `#include "rclcpp/rclcpp.hpp"` allows use of the most common elements of the ROS 2 system.
      * `rclcpp_components`
      * `rclcpp_lifecycle`
-     * ***rclcpp integration Test**
+     * **rclcpp integration Test**
 
   9. **Rclpy test**
      * https://github.com/ros2/rclpy/tree/master/rclpy/test
