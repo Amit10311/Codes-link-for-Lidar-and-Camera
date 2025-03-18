@@ -8,4 +8,9 @@
    * **Mobile Robotics (Part II)** - Localization & Mapping, Mobile Robot Vehicles	
    * **Robot Manipulators (Part III)** - Manipulator Velocity	, Dynamics & Control	
    * **Computer Vision (Part IV)** - Light & Color	
-   * Vision-Based Control (Part V)	
+   * Vision-Based Control (Part V)
+     
+2. **ROS 2_ patterns, anti-patterns, frameworks and best practices-Marco Matteo Bassa (2023)**
+   * https://github.com/nirwester/ros2_journey_examples
+   * control
+   * callbacks_and_executors
