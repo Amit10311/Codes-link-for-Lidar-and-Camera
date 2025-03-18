@@ -11,7 +11,10 @@
    * Vision-Based Control (Part V)
 
 
-2. **ROS 2_ patterns, anti-patterns, frameworks and best practices-Marco Matteo Bassa (2023)**
+2. **ROS 2_ patterns, anti-patterns, frameworks and best practices by Marco Matteo Bassa (2023)**
    * https://github.com/nirwester/ros2_journey_examples
    * control
    * callbacks_and_executors
+
+3. **"A concise introduction to Robot Programming with ROS2" by Francisco Martin Rico.**
+   * https://github.com/SimoneRicc/bookros2_ws
