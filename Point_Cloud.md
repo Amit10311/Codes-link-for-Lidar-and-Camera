@@ -113,4 +113,5 @@ Additional frameworks and resources for advanced point cloud processing.
     - PCL Tutorials: https://pointclouds.org/documentation/tutorials.html
     - https://pcl.readthedocs.io/projects/tutorials/en/master/
 
+   * https://github.com/GeorgeDu/point-cloud-registration
 ---
