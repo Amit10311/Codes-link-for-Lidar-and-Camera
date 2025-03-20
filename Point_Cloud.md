@@ -15,7 +15,10 @@ Each point contains coordinates (x, y, z) and may also include additional inform
     - Common formats for Lidar point cloud data.
 4. **.OBJ**:
     - Often used for 3D models that include surfaces.
-
+      
+**Point Cloud Registration: Papers and Codes**
+   * https://github.com/GeorgeDu/point-cloud-registration
+     
 ## 1. **Popular Libraries for Handling Point Clouds**
 
 1. **Point Cloud Library (PCL)**:
@@ -113,5 +116,5 @@ Additional frameworks and resources for advanced point cloud processing.
     - PCL Tutorials: https://pointclouds.org/documentation/tutorials.html
     - https://pcl.readthedocs.io/projects/tutorials/en/master/
 
-   * https://github.com/GeorgeDu/point-cloud-registration
+
 ---
