@@ -44,7 +44,7 @@
 
 
 ## Enterprise Courses
-1. **Docker Basics for Robotics** : https://app.theconstruct.ai/courses/114
+1. Docker Basics for Robotics : https://app.theconstruct.ai/courses/114
 2. **GTest Framework for ROS2** : https://app.theconstruct.ai/courses/115
 
 
