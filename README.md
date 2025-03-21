@@ -200,9 +200,6 @@ Father of LIDAR and IMU integration
    * https://github.com/ChenBohan/Robotics-Sensor-Fusion-03-UKF-Unscented-Kalman-Filter
    * https://github.com/ChenBohan/Robotics-Path-Planning-05-CarND-Path-Planning-Project 
    
-3. Robotics-ROS
-   * https://github.com/ChenBohan/Robotics-ROS-04-Coordinate-Transform
-
 ## GITHUB 
 1. Git CI Actions
    * https://github.com/actions/cache
