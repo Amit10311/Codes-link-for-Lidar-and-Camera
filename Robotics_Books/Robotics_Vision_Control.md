@@ -21,3 +21,6 @@
    * Uses the two programming languages officially supported in ROS2 (C++, mainly, and Python)
    * Approaches ROS2 from three different but complementary dimensions: the Community, Computation Graph, and the Workspace
    * Includes a complete simulated robot, development and testing strategies, Behavior Trees, and Nav2 description, setup, and use.
+
+4. **ROS 2 Lessons and Build Instructions**
+   * https://www.hadabot.com/build-learn.html
