@@ -5,3 +5,6 @@
 
 2. **Python Learning Paths**
    * https://realpython.com/learning-paths/
+     
+3. **NumPy quickstart**
+   * https://numpy.org/devdocs/user/quickstart.html
