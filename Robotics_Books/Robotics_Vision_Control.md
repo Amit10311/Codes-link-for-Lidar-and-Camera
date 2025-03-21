@@ -18,6 +18,7 @@
 
 3. **"A concise introduction to Robot Programming with ROS2" by Francisco Martin Rico.**
    * https://github.com/SimoneRicc/bookros2_ws
+   * https://github.com/SimoneRicc/bookros2_ws/tree/main/src/book_ros2
    * Uses the two programming languages officially supported in ROS2 (C++, mainly, and Python)
    * Approaches ROS2 from three different but complementary dimensions: the Community, Computation Graph, and the Workspace
    * Includes a complete simulated robot, development and testing strategies, Behavior Trees, and Nav2 description, setup, and use.
