@@ -20,11 +20,11 @@
 
 2. ROS 2 Perception in 5 Days : https://app.theconstruct.ai/courses/239
 
-   2.1. **Course Intro**  
-   2.2. **Working With Sensor Data in ROS 2**
+   2.1 **Course Intro**  
+   2.2 **Working With Sensor Data in ROS 2**
       * Understand the different sensor data types used in ROS 2.
 
-   2.3. **Point Cloud Processing**
+   2.3 **Point Cloud Processing**
       * Thorough grasp of point cloud processing within ROS 2, covering two main workflows: Surface and Object Detection.
 
 
