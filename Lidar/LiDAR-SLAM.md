@@ -4,11 +4,13 @@
    * A real-time lidar-inertial odometry package. `[IEEE International Conference on Robotics and Automation (ICRA) 2020]`
    * Proposes a framework for tightly-coupled lidar-inertial odometry via smoothing and mapping, achieving highly accurate, real-time trajectory estimation and map-building.
    * https://github.com/TixiaoShan/LIO-SAM
+
      
 2. **LeGO-LOAM** -> LOAM V1.0 
    * This repository contains code for a lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. `[IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018]`
    * Develops a lightweight and ground-optimized lidar odometry and mapping system tailored for ground vehicles, utilizing a horizontally placed Velodyne VLP-16 LiDAR and optional IMU data
    * https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
+
   
 3. **FAST-LIO** -> LIO V2.0
    * Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package. `[Applied Sciences 2023]`
@@ -16,10 +18,12 @@
    * https://github.com/hku-mars/FAST_LIO
    * https://github.com/gisbi-kim/FAST_LIO_SLAM
 
+
 4. **LIO-mapping** -> LIO V1.0
    * A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach. [IEEE International Conference on Robotics and Automation (ICRA) 2019]
    * Presents a tightly coupled 3D lidar and inertial odometry and mapping approach, demonstrating real-time and precise localization across various LiDAR types in diverse environments.
    * https://github.com/hyye/lio-mapping
+
 
 5. **A-LOAM**
    * Advanced implementation of LOAM `[IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018]`
