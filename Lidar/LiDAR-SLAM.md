@@ -11,7 +11,7 @@
    * https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
   
 3. **FAST-LIO** -> LIO V2.0
-   * FAST-LIO (Fast LiDAR-Inertial Odometry) is a computationally efficient and robust LiDAR-inertial odometry package. `[Applied Sciences 2023]`
+   * Fast LiDAR-Inertial Odometry is a computationally efficient and robust LiDAR-inertial odometry package. `[Applied Sciences 2023]`
    * Introduces a computationally efficient and robust LiDAR-inertial odometry package, focusing on real-time performance for mobile robot navigation on flat terrain.
    * https://github.com/hku-mars/FAST_LIO
    * https://github.com/gisbi-kim/FAST_LIO_SLAM
