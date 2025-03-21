@@ -17,7 +17,6 @@
 1. Fuse Sensor Data to Improve Localization : https://app.theconstruct.ai/courses/37
    * Learn how to fuse GPS, IMU, odometry and other sources of localization.
 
-
 2. ROS 2 Perception in 5 Days : https://app.theconstruct.ai/courses/239
 
    2.1 **Course Intro**  
@@ -27,6 +26,12 @@
    2.3 **Point Cloud Processing**
       * Thorough grasp of point cloud processing within ROS 2, covering two main workflows: Surface and Object Detection.
 
+
+## **Localization**
+1. **`robot_localization`**
+   * `robot_localization` is a package of nonlinear state estimation nodes.
+   * https://github.com/cra-ros-pkg/robot_localization/tree/ros2
+   * https://docs.ros.org/en/kinetic/api/robot_localization/html/integrating_gps.html
 
 
 
