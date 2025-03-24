@@ -31,7 +31,7 @@
 
 6. **rclcpp**
      * https://github.com/ros2/rclcpp
-     * https://docs.ros.org/en/rolling/p/rclcpp/generated/index.html#rclcpp-ros-client-library-for-c
+     * https://docs.ros.org/en/humble/p/rclcpp/generated/index.html#rclcpp-ros-client-library-for-c
      * `#include "rclcpp/rclcpp.hpp"` allows use of the most common elements of the ROS 2 system.
      * `rclcpp_components`
      * `rclcpp_lifecycle`
