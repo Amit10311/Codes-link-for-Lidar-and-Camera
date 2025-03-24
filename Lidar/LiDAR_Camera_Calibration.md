@@ -20,3 +20,5 @@
 
 3. **tier4/CalibrationTools**: This set of tools from **Tier 4** is designed for **target-based calibration** and includes manual methods. It's useful for fine-tuning sensor configurations in autonomous driving platforms. You can find the source code and documentation on the [Tier4 CalibrationTools GitHub repository](https://github.com/tier4/CalibrationTools).
 
+Calibrate their LiDAR with cameras (RGB and thermal ones)
+* https://github.com/Titou2222/calibration_pkg
