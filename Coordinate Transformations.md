@@ -2,13 +2,23 @@
 
 1. **Coordinate Transformations in Robotics | ROS Developers Open Class #203**
     * https://www.youtube.com/watch?v=MDGaTaCg8HI
+
+
+2. **The ROS Transform System (TF) | Getting Ready to Build Robots with ROS (Youtube)**
+   * https://youtu.be/QyvHhY4Y_Y8?list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt
+
      
-2. **ROS2 Transform Trees and Odometry**
+3. **ROS2 Transform Trees and Odometry**
    * https://docs.isaacsim.omniverse.nvidia.com/4.5.0/ros2_tutorials/tutorial_ros2_tf.html
+
     
-3. **Introducing tf2**
+4. **Introducing tf2**
    * https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html
    * `ros2 run tf2_tools view_frames`
 
-4. **Robotics-ROS-04-Coordinate-Transform for study and implementation**
+
+5. **Robotics-ROS-04-Coordinate-Transform for study and implementation**
    * https://github.com/ChenBohan/Robotics-ROS-04-Coordinate-Transform
+
+6. **All you need to know about TF and TF2 in ROS | Tutorial (Youtube)**
+   * https://youtu.be/_t4HZ8r_qFM
