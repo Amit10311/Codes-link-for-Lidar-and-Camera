@@ -97,7 +97,7 @@ Additional frameworks and resources for advanced point cloud processing.
     - **Code**: G3DNet Repository (https://github.com/WDot/G3DNet)
 - 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
     - https://lnkd.in/dv88uk39
----
+
 
 ## 3. PCL with ROS 2
 
@@ -107,7 +107,7 @@ Additional frameworks and resources for advanced point cloud processing.
 2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
    * https://github.com/GitRepJo/pcl_example
 
----
+
 ## **References for Learning and Documentation**
 
 1. **Books**:
