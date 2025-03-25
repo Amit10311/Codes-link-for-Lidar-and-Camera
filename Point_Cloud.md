@@ -71,9 +71,8 @@ Each point contains coordinates (x, y, z) and may also include additional inform
     - A collection of GICP-based fast point cloud registration algorithms
     - https://github.com/koide3/fast_gicp
 
-
-
-
+4. This package provides an OpenMP-boosted Normal Distributions Transform (and GICP) algorithm derived from pcl.
+    - https://github.com/koide3/ndt_omp 
 
 
   
