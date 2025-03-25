@@ -50,10 +50,36 @@ Each point contains coordinates (x, y, z) and may also include additional inform
     - A library for deep learning with 3D data, including point clouds.
     - Website: https://pytorch3d.org/
 
-  
-## **2. Algorithms and Methods for Point Cloud Processing**
 
-#### **2.1. Voxel-Based Methods**
+## 2. PCL with ROS 2
+
+1. **Tutorial for using Point Cloud Library (PCL) with ROS 2.**
+   * https://github.com/adrian-soch/pcl_tutorial
+
+2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
+   * https://github.com/GitRepJo/pcl_example
+
+
+
+## 3. Aligning and registering 3D point clouds
+
+1. Iterative Closest Point (ICP)
+
+2. Normal Distributions Transform (NDT)
+
+3. Generalized Iterative Closest Point (GICP) algorithm
+    - A collection of GICP-based fast point cloud registration algorithms
+    - https://github.com/koide3/fast_gicp
+
+
+
+
+
+
+  
+## **4. Algorithms and Methods for Point Cloud Processing**
+
+### **4.1. Voxel-Based Methods**
 
 These methods utilize voxel grids for efficient 3D object detection and processing.
 
@@ -72,7 +98,7 @@ These methods utilize voxel grids for efficient 3D object detection and processi
         - Second.pytorch (https://github.com/nutonomy/second.pytorch)
         - CUDA-PointPillars (https://github.com/NVIDIA-AI-IOT/CUDA-PointPillars)
 
-#### **2.2. Point-Based Methods**
+### **4.2. Point-Based Methods**
 * Suitable for in-door scenes (high object density) not for out-door ( large scale point clouds). 
 * These methods process raw point clouds directly and are often suitable for high-density, indoor scenes.
 
@@ -84,7 +110,7 @@ These methods utilize voxel grids for efficient 3D object detection and processi
     - **Description**: Two-stage framework: bottom-up 3D proposal generation and proposal refinement for final detection.
     - **Code**: PointRCNN Repository (https://github.com/sshaoshuai/PointRCNN)
 
-#### **2.3. Other Tools and Frameworks**
+### **4.3. Other Tools and Frameworks**
 
 Additional frameworks and resources for advanced point cloud processing.
 
@@ -99,25 +125,6 @@ Additional frameworks and resources for advanced point cloud processing.
     - https://lnkd.in/dv88uk39
 
 
-## 3. PCL with ROS 2
-
-1. **Tutorial for using Point Cloud Library (PCL) with ROS 2.**
-   * https://github.com/adrian-soch/pcl_tutorial
-
-2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
-   * https://github.com/GitRepJo/pcl_example
-
-
-
-## 4. Aligning and registering 3D point clouds
-
-1. Iterative Closest Point (ICP)
-
-2. Normal Distributions Transform (NDT)
-
-3. Generalized Iterative Closest Point (GICP) algorithm
-    - A collection of GICP-based fast point cloud registration algorithms
-    - https://github.com/koide3/fast_gicp
 
 
 
