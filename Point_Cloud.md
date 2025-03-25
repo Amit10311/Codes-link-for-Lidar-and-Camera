@@ -15,6 +15,7 @@ Each point contains coordinates (x, y, z) and may also include additional inform
     - Common formats for Lidar point cloud data.
 4. **.OBJ**:
     - Often used for 3D models that include surfaces.
+
       
 **Point Cloud Registration: Papers and Codes**
    * https://github.com/GeorgeDu/point-cloud-registration
@@ -96,10 +97,17 @@ Additional frameworks and resources for advanced point cloud processing.
     - **Code**: G3DNet Repository (https://github.com/WDot/G3DNet)
 - 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
     - https://lnkd.in/dv88uk39
+---
 
+## 3. PCL with ROS 2
 
+1. **Tutorial for using Point Cloud Library (PCL) with ROS 2.**
+   * https://github.com/adrian-soch/pcl_tutorial
 
+2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
+   * https://github.com/GitRepJo/pcl_example
 
+---
 ## **References for Learning and Documentation**
 
 1. **Books**:
