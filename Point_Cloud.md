@@ -108,6 +108,19 @@ Additional frameworks and resources for advanced point cloud processing.
    * https://github.com/GitRepJo/pcl_example
 
 
+
+## 4. Aligning and registering 3D point clouds
+
+1. Iterative Closest Point (ICP)
+
+2. Normal Distributions Transform (NDT)
+
+3. Generalized Iterative Closest Point (GICP) algorithm
+    - A collection of GICP-based fast point cloud registration algorithms
+    - https://github.com/koide3/fast_gicp
+
+
+
 ## **References for Learning and Documentation**
 
 1. **Books**:
