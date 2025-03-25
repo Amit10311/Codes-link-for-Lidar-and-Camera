@@ -17,7 +17,7 @@
 
 3. **Artificial Intelligence for Robotics: Build intelligent robots using ROS 2, Python, OpenCV, and AI/ML techniques for real-world tasks , Second Edition**
    * https://www.packtpub.com/en-us/product/artificial-intelligence-for-robotics-9781805129592
-
+   * https://github.com/PacktPublishing/Artificial-Intelligence-for-Robotics-2e
 
 4. **ROS 2, Programming and Robotics Fundamentals**
    * https://automaticaddison.com/tutorials/#Linux_Fundamentals
