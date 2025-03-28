@@ -21,20 +21,20 @@ Each point contains coordinates (x, y, z) and may also include additional inform
    * https://github.com/GeorgeDu/point-cloud-registration
      
 ## 1. **Popular Libraries for Handling Point Clouds**
+1. **PCL tutorials**
+    - https://pcl.readthedocs.io/projects/tutorials/en/master/
 
-1. **Point Cloud Library (PCL)**:
+
+2. **Point Cloud Library (PCL)**:
     - A comprehensive library for working with 3D point clouds.
     - Website: https://pointclouds.org/
     - Features:
         - Filtering, segmentation, and surface reconstruction.
         - Point cloud registration and alignment.
         - Point feature extraction.
-     https://github.com/jkk-research/pointcloud_to_grid
 
-2. **pointcloud_to_grid ROS 2 package**
-    - https://github.com/jkk-research/pointcloud_to_grid
 
-3. **Open3D**:
+4. **Open3D**:
     - A modern library for 3D data processing.
     - Website: http://www.open3d.org/
     - Features:
@@ -42,11 +42,8 @@ Each point contains coordinates (x, y, z) and may also include additional inform
         - Point cloud manipulation.
         - Integration with machine learning tools.
           
-4. **ROS 2 Point Cloud Messages**:
-    - ROS provides `sensor_msgs/PointCloud` and `sensor_msgs/PointCloud2` messages for working with point clouds in robotic systems.
-    - ROS documentation: PointCloud2
 
-5. **Pytorch3D**:
+6. **Pytorch3D**:
     - A library for deep learning with 3D data, including point clouds.
     - Website: https://pytorch3d.org/
 
@@ -58,7 +55,12 @@ Each point contains coordinates (x, y, z) and may also include additional inform
 
 2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
    * https://github.com/GitRepJo/pcl_example
-
+  
+3. **PCL basic introduction and usage tutorial examples**
+   * https://gitee.com/gwmunan/pcl_tutorials
+     
+4. **pointcloud_to_grid ROS 2 package**
+    - https://github.com/jkk-research/pointcloud_to_grid
 
 
 ## 3. Aligning and registering 3D point clouds
@@ -141,7 +143,6 @@ Additional frameworks and resources for advanced point cloud processing.
 4. **Web Tutorials**:
     - Open3D Documentation: http://www.open3d.org/docs/
     - PCL Tutorials: https://pointclouds.org/documentation/tutorials.html
-    - https://pcl.readthedocs.io/projects/tutorials/en/master/
 
 
 ---
