@@ -6,7 +6,7 @@
    * `ros2 run tf2_tools view_frames`
 
      
-2. **All you need to know about TF and TF2 in ROS | Tutorial (Youtube)**
+2. **All you need to know about TF and TF2 in ROS | Tutorial (Youtube)***
    * https://youtu.be/_t4HZ8r_qFM
 
      
