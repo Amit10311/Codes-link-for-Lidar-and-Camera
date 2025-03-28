@@ -104,6 +104,7 @@ These methods utilize voxel grids for efficient 3D object detection and processi
 - **PointNet++**: Deep Hierarchical Feature Learning on Point Sets in a Metric Space (2017)
     - **Paper**: PointNet++ Paper (https://arxiv.org/pdf/1706.02413.pdf)
     - **Code**: PointNet++ Repository (https://github.com/charlesq34/pointnet2)
+      
 - **PointRCNN**: 3D Object Proposal Generation and Detection from Raw Point Cloud
     - **Paper**: PointRCNN Paper (https://arxiv.org/pdf/1812.04244.pdf)
     - **Description**: Two-stage framework: bottom-up 3D proposal generation and proposal refinement for final detection.
@@ -115,10 +116,13 @@ Additional frameworks and resources for advanced point cloud processing.
 
 - **VoxelNet**: End-to-End Learning for Point Cloud-Based 3D Object Detection
     - **Code**: VoxelNet Repository (https://github.com/qianguih/voxelnet)
+      
 - **OpenPCDet**: LiDAR-Based 3D Object Detection
     - **Description**: Open-source project for LiDAR-based detection.
     - **Code**: OpenPCDet Repository (https://github.com/open-mmlab/OpenPCDet)
+      
 - **General-Purpose Point Cloud Feature Extractor (G3DNet)**
+  
     - **Code**: G3DNet Repository (https://github.com/WDot/G3DNet)
 - 3D Machine Learning 201 Guide: Point Cloud Semantic Segmentation
     - https://lnkd.in/dv88uk39
@@ -132,15 +136,13 @@ Additional frameworks and resources for advanced point cloud processing.
 1. **Books**:
     - "3D Point Cloud Processing: Advances in Machine Learning and Signal Processing" by Zhiyong Yuan and Weiwei Wan.
     - "Point Cloud Data Analysis" by Masatoshi Kaneko.
+      
 2. **Courses**:
     - **Coursera**: [Computer Vision and Lidar Sensor Fusion](https://www.coursera.org/learn/sensor-fusion-perception).
     - **Udemy**: Point Cloud Processing with Python.
+      
 3. **Research Papers**:
     - **"PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"** by Qi et al.
     - **"PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space"** by Qi et al.
-4. **Web Tutorials**:
-    - Open3D Documentation: http://www.open3d.org/docs/
-    - PCL Tutorials: https://pointclouds.org/documentation/tutorials.html
 
 
----
