@@ -7,6 +7,6 @@
    * https://github.com/linorobot/linorobot
 
      
-2. **ROS2-Gazebo simulation package leveraging Mid360 and FASTLIO for navigation.**
+2. **ROS2-Gazebo simulation package leveraging Mid360 and FASTLIO for navigation.***
    - **https://gitee.com/SMBU-POLARBEAR/pb_rm_simulation**
    - Contains Docker config
