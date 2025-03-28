@@ -14,6 +14,7 @@
     
 4. **Introducing tf2**
    * https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html
+   * https://wiki.ros.org/navigation/Tutorials/RobotSetup/TF
    * `ros2 run tf2_tools view_frames`
 
 
