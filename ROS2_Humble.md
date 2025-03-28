@@ -57,5 +57,8 @@
 
 
 11. **ROS2 Learning Tutorial**
-    * https://gitee.com/gwmunan/ros2
-    * https://gitee.com/organizations/gwmunan/projects
+    - https://gitee.com/gwmunan/ros2
+    - https://gitee.com/organizations/gwmunan/projects
+   
+12. ROS2 Learning
+    - https://gitee.com/jiangzhuqingfeng/ws_ros2_study
