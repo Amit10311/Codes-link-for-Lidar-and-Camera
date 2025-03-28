@@ -17,24 +17,19 @@ Each point contains coordinates (x, y, z) and may also include additional inform
     - Often used for 3D models that include surfaces.
 
       
-**Point Cloud Registration: Papers and Codes**
-   * https://github.com/GeorgeDu/point-cloud-registration
-     
 ## 1. **Popular Libraries for Handling Point Clouds**
-1. **PCL tutorials**
-    - https://pcl.readthedocs.io/projects/tutorials/en/master/
 
-
-2. **Point Cloud Library (PCL)**:
+1. **Point Cloud Library (PCL) tutorials**
     - A comprehensive library for working with 3D point clouds.
-    - Website: https://pointclouds.org/
+    - **Link :** https://pcl.readthedocs.io/projects/tutorials/en/master/
+    - **Link :** https://pointclouds.org/
     - Features:
         - Filtering, segmentation, and surface reconstruction.
         - Point cloud registration and alignment.
         - Point feature extraction.
 
 
-4. **Open3D**:
+2. **Open3D**:
     - A modern library for 3D data processing.
     - Website: http://www.open3d.org/
     - Features:
@@ -43,7 +38,7 @@ Each point contains coordinates (x, y, z) and may also include additional inform
         - Integration with machine learning tools.
           
 
-6. **Pytorch3D**:
+3. **Pytorch3D**:
     - A library for deep learning with 3D data, including point clouds.
     - Website: https://pytorch3d.org/
 
@@ -51,17 +46,20 @@ Each point contains coordinates (x, y, z) and may also include additional inform
 ## 2. PCL with ROS 2
 
 1. **Tutorial for using Point Cloud Library (PCL) with ROS 2.**
-   * https://github.com/adrian-soch/pcl_tutorial
+   - https://github.com/adrian-soch/pcl_tutorial
 
 2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
-   * https://github.com/GitRepJo/pcl_example
+   - https://github.com/GitRepJo/pcl_example
   
 3. **PCL basic introduction and usage tutorial examples**
-   * https://gitee.com/gwmunan/pcl_tutorials
+   - https://gitee.com/gwmunan/pcl_tutorials
      
 4. **pointcloud_to_grid ROS 2 package**
-    - https://github.com/jkk-research/pointcloud_to_grid
-
+   - https://github.com/jkk-research/pointcloud_to_grid
+      
+5. **Point Cloud Registration: Papers and Codes**
+   - https://github.com/GeorgeDu/point-cloud-registration
+     
 
 ## 3. Aligning and registering 3D point clouds
 
