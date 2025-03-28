@@ -7,15 +7,10 @@ Each point contains coordinates (x, y, z) and may also include additional inform
 
 **Point Cloud Formats**
 
-1. **.PCD** (Point Cloud Data):
-    - Native format for the Point Cloud Library.
-2. **.PLY** (Polygon File Format):
-    - Widely supported format with additional support for color and other attributes.
-3. **.LAS/.LAZ**:
-    - Common formats for Lidar point cloud data.
-4. **.OBJ**:
-    - Often used for 3D models that include surfaces.
-
+1. **.PCD** (Point Cloud Data) : Native format for the Point Cloud Library.
+2. **.PLY** (Polygon File Format) : Widely supported format with additional support for color and other attributes.
+3. **.LAS/.LAZ** : Common formats for Lidar point cloud data.
+4. **.OBJ** : Often used for 3D models that include surfaces.
       
 ## 1. **Popular Libraries for Handling Point Clouds**
 
