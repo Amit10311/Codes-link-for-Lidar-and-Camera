@@ -10,3 +10,9 @@
 2. **ROS2-Gazebo simulation package leveraging Mid360 and FASTLIO for navigation.***
    - **https://gitee.com/SMBU-POLARBEAR/pb_rm_simulation**
    - Contains Docker config
+
+3. **Int-Ball2 Technology Demonstration Platform ROS/Gazebo Simulator**
+   - https://github.com/jaxa/int-ball2_simulator/tree/main
+   - Int-Ball2 (JEM Internal Ball Camera 2 System) is a free-flying camera robot deployed in the ISS Japan Experimental Module (JEM).
+   - It is remotely controlled from the ground to capture video images and support astronauts.
+   - Additionally, Int-Ball2 can run user-developed software as an extended functionality and can be used as a platform for demonstrating robotic technology in space.
