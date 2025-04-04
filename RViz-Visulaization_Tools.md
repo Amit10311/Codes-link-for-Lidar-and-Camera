@@ -8,4 +8,3 @@
 2. **Quaternions and Euler Angles** 
     * https://quaternions.online/
     * ![image](https://github.com/user-attachments/assets/fc1bbf96-6f10-41ea-a622-1f1a29cce2c1)
-
