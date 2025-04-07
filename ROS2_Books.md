@@ -48,4 +48,6 @@
 
 5. **Ros2 Cookbook**
    * https://github.com/mikeferguson/ros2_cookbook/tree/main
-    
+  
+6. **ROS 2 Robot Development: From Beginner to Practice**
+    https://github.com/fishros/ros2bookcode
