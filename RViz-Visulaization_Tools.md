@@ -9,3 +9,7 @@
     * https://quaternions.online/
     * ![image](https://github.com/user-attachments/assets/fc1bbf96-6f10-41ea-a622-1f1a29cce2c1)
     * https://www.wolfram.com/language/11/core-geometry/euler-rotations.html?product=mathematica 
+
+3. **3D Point Visualization**
+   - https://www.desmos.com/3d
+   
