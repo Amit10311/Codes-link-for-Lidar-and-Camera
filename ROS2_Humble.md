@@ -64,5 +64,5 @@
     - https://gitee.com/jiangzhuqingfeng/ws_ros2_study
    
 13. **ROS2 module to restrain collisions by scaling velocity to prohibit driving into obstacles**
-    - ROS2 module to try to prohibit rectangular robots from driving into obstacles (PointCloud2 points) by restraining 2D twist command velocities.
+    - ROS2 module to try to prohibit rectangular robots from driving into obstacles (`PointCloud2` points) by restraining 2D twist command velocities.
     - https://github.com/AlexReimann/collision_restraint 
