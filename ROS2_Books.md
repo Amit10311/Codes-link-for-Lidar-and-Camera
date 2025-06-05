@@ -51,3 +51,6 @@
   
 6. **ROS 2 Robot Development: From Beginner to Practice**
    * `Github :` https://github.com/fishros/ros2bookcode
+  
+7. **Mastering ROS 2 for Robotics Programming**
+   * `Github :` https://github.com/PacktPublishing/Mastering-ROS-2-for-Robotics-Programming
