@@ -54,3 +54,11 @@
   
 7. **Mastering ROS 2 for Robotics Programming**
    * `Github :` https://github.com/PacktPublishing/Mastering-ROS-2-for-Robotics-Programming
+   * What you will learn
+   * Explore ROS 2 architecture, DDS, and communication interfaces in depth
+   * Simulate various robots using Gazebo and ROS 2
+   * Master Nav2 and MoveIt 2 in ROS 2
+   * Explore ROS 2 Control and Perception
+   * Develop real robots from scratch using micro-ROS
+   * Build LLM-based AI agents in ROS 2
+   * Implement reinforcement learning applications in ROS 2, NVIDIA Isaac Lab, and Isaac Sim
