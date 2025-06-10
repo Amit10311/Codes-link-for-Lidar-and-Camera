@@ -22,3 +22,6 @@
    - `Wiki:` https://pyrobosim.readthedocs.io/en/latest/
    - `Video:` https://youtu.be/K5359uSeyVA
  
+5. **ROS2-based control and visualisation environment for a custom robot**
+   - `Github:` https://github.com/sleepingwithshoes/ros2_robot_controller
+   - It's with Docker
