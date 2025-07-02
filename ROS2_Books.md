@@ -62,3 +62,6 @@
    * Develop real robots from scratch using micro-ROS
    * Build LLM-based AI agents in ROS 2
    * Implement reinforcement learning applications in ROS 2, NVIDIA Isaac Lab, and Isaac Sim
+  
+8. **ROS2 study Chinese**
+   * `Github :`https://github.com/CDSL-UoS/Study_ROS2_2024-1/tree/ee34c4523a854954ad0f149b1d256e57974dd88e
