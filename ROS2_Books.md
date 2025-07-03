@@ -2,11 +2,11 @@
 
 1. **Get started with ROS 2 and create robotics applications with Python and C++**
    * `Github :` https://github.com/PacktPublishing/ROS-2-from-Scratch
-   * Write ROS 2 programs using nodes, topics, services, actions, and custom interfaces
+   * Write ROS 2 programs using nodes, topics, services, actions, and ***custom interfaces***.
    * Scale your application with parameters and launch files
    * Get a complete overview of how TFs work for any ROS-powered robot
-   * Create a robot model (with URDF) and visualize TFs on RViz
-   * Adapt the URDF to spawn and control your robot in the Gazebo simulator
+   * Create a robot model (with URDF) and ***visualize TFs*** on RViz
+   * Adapt the **URDF** to spawn and **control your robot in the Gazebo simulator**.
 
 2. **A Concise Introduction to Robot Programming with ROS2 By Francisco Martín Rico - Code Repository**
    * `Github :` [https://github.com/fmrico/book_ros2](https://github.com/fmrico/book_ros2/tree/humble-devel)
