@@ -71,8 +71,8 @@
    * What you learn
      - The fundamentals of ROS 2 for robotics development.
      - Develop robotics applications using Python and ROS 2 programming.
-     - ROS 2 packages for **navigation and manipulation**.
-     - Implement **behavior trees** in ROS 2 with Python for intelligent robots.
-     - **Gazebo** for realistic robot simulation with ROS 2.
+     - ROS 2 packages for ***navigation and manipulation***.
+     - Implement ***behavior trees*** in ROS 2 with Python for intelligent robots.
+     - ***Gazebo*** for realistic robot simulation with ROS 2.
      - Integrate Large Language Models (LLMs) with ROS 2 for advanced functionalities.
      - Computer vision tasks with ROS 2 for intelligent robots.
