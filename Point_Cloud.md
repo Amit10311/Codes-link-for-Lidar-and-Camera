@@ -42,13 +42,13 @@ Each point contains coordinates (x, y, z) and may also include additional inform
 
 1. **Tutorial for using Point Cloud Library (PCL) with ROS 2.**
    - https://github.com/adrian-soch/pcl_tutorial
-
-2. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
-   - https://github.com/GitRepJo/pcl_example
   
-3. **PCL basic introduction and usage tutorial examples**
+2. **PCL basic introduction and usage tutorial examples**(imp)
    - https://gitee.com/gwmunan/pcl_tutorials
-     
+
+3. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
+   - https://github.com/GitRepJo/pcl_example
+
 4. **pointcloud_to_grid ROS 2 package**
    - https://github.com/jkk-research/pointcloud_to_grid
       
