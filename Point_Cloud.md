@@ -41,20 +41,22 @@ Each point contains coordinates (x, y, z) and may also include additional inform
 ## 2. PCL with ROS 2
 
 1. **Tutorial for using Point Cloud Library (PCL) with ROS 2.**
-   - https://github.com/adrian-soch/pcl_tutorial
+   - `GitHub :` https://github.com/adrian-soch/pcl_tutorial
   
 2. **PCL basic introduction and usage tutorial examples** (imp)*
-   - https://gitee.com/gwmunan/pcl_tutorials
+   - `GitHub :` https://gitee.com/gwmunan/pcl_tutorials
 
 3. **A template ROS2 C++ node to test a PCL Pointcloud2 processing**
-   - https://github.com/GitRepJo/pcl_example
+   - `GitHub :` https://github.com/GitRepJo/pcl_example
 
 4. **pointcloud_to_grid ROS 2 package**
-   - https://github.com/jkk-research/pointcloud_to_grid
+   - `GitHub :` https://github.com/jkk-research/pointcloud_to_grid
       
 5. **Point Cloud Registration: Papers and Codes**
-   - https://github.com/GeorgeDu/point-cloud-registration
-     
+   - `GitHub :` https://github.com/GeorgeDu/point-cloud-registration
+  
+6. **ROS2 Point Cloud Clustering and Segmentation for Autonomous Behaviour**
+   - `GitHub :` https://github.com/noshluk2/ROS2-Point-Cloud-Clustering-and-Segmentation-for-Autonomous-Behaviour 
 
 ## 3. Aligning and registering 3D point clouds
 
