@@ -4,4 +4,4 @@
    * url: https://bit-bots.de/en/2023/03/ros-2-latencies-for-high-frequencies-using-the-eventexecutor/ (cited on page 5).
 
 2. **Zenoh ROSCon(s) 2025 Workshop 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇸🇬 🇫🇷 🇩🇪**
-   * https://github.com/ZettaScaleLabs/roscon2025_workshop
+   * `Github :` https://github.com/ZettaScaleLabs/roscon2025_workshop
